@@ -1,0 +1,1 @@
+print("Bismillahir rahmanir rahim")
